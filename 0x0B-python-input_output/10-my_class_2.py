@@ -3,8 +3,7 @@
 """
 
 class MyClass:
-    """ My class
-    """
+    """My class"""
 
     score = 0
 
