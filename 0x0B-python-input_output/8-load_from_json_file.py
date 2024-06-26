@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Load from JSON file method"""
 
 import json
 

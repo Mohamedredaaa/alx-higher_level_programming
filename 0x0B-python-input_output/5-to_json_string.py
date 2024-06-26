@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""To JSON string method"""
 
 import json
 

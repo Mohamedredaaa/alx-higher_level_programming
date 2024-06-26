@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Save to JSON file method"""
 
 import json
 
